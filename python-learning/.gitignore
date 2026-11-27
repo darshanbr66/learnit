@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files (Python's equivalent to build artifacts)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (Python's equivalent to node_modules/)
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables & secrets
+.env
+.env.*
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Testing & coverage caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store

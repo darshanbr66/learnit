@@ -1,0 +1,13 @@
+{
+    "name": "nodejs-learning",
+    "version":"1.0.0",
+    "author":"Darshan",
+    "description":"A simple Node.js learning way",
+    "main":"app.js",
+    "scripts":{
+        "start": "node app.js"
+    },
+    "dependencies":{
+        "express":"5.3.0"
+    }
+}
